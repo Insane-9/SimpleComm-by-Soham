@@ -2,6 +2,8 @@
 
 A full-stack e-commerce application built with Node.js, Express, MongoDB, and React/Vite.
 
+🚀 **Live Demo**: [https://simplecomm-by-soham.onrender.com/](https://simplecomm-by-soham.onrender.com/)
+
 ## Quick Setup
 
 ### Prerequisites
