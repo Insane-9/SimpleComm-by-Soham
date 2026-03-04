@@ -1,0 +1,22 @@
+{
+  "name": "simplecomm",
+  "version": "1.0.0",
+  "description": "A full-stack e-commerce application built with Node.js, Express, MongoDB, and React/Vite.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insane-9/SimpleComm-by-Soham.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Insane-9/SimpleComm-by-Soham/issues"
+  },
+  "homepage": "https://github.com/Insane-9/SimpleComm-by-Soham#readme"
+}
